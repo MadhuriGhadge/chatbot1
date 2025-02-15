@@ -1123,7 +1123,24 @@
               {
                 "question":"the boat club facility",
                 "answer": "Boating and rowing activities for students,Training sessions to enhance water sports skills,Participation in state and national-level rowing competitions,Facilities available near the riverfront for practice"
-              }
+              },
+             {
+                "question":"the admission criteria",
+                "answer": "Admissions are based on marks obtained in the qualifying examination.For undergraduate programs, 12th grade (HSC) scores are considered.Merit lists are displayed on the college notice board and website.For postgraduate programs, graduation marks in relevant fields are considered.Merit-based admissions are competitive; early application is recommended.Students should ensure their application form is complete and accurate.Deadlines for submitting documents must be strictly followed."
+              },
+             {
+                "question":"merit list process",
+                "answer": "The college prepares a merit list based on student performance.Separate merit lists are published for different categories (e.g., Open, Reserved).Merit lists are displayed on the college notice board and website"
+              },
+            {
+                "question":"admission for reserved categories",
+                "answer": "Admissions follow government-mandated reservation policies for SC, ST, OBC, and other categories.Special consideration for economically weaker sections (EWS)"
+              },
+            {
+                "question":"Documents Required for admission",
+                "answer":"Mark sheets of the qualifying examination (HSC or Graduation).Transfer Certificate (TC) from the previous institution.Caste certificate (if applicable).Income certificate (for EWS category).Passport-size photographs."
+            }
+           
            
           
     ]
