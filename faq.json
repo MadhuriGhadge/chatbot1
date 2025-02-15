@@ -1107,7 +1107,12 @@
               {
                 "question": "Who is the HOD / head of the department",
                 "answer":  "Dr. R.A. Patil,Education:M.C.S., Ph.D.,experience: 26 years,role:Head of Department, Computer Science, Responsibilities:Managing departmental activities, Curriculum planning and updates, Mentoring faculty and students,Encouraging research and development, Organizing workshops and industry collaborations"
-              }
+              },
+            {
+                "question": "what are the sport facilities available at the department?",
+                "answer":  "iwell maintained grounds for cricket and football,vollyball court,Archery court--indoor facilities for badminton,table tennis and other"
+              },
+            
            
           
     ]
