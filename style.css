@@ -1,0 +1,173 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Chatbot Button (Floating Icon) */
+.chatbot-btn {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: #007bff;
+    color: white;
+    font-size: 24px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    animation: bounce 1.5s infinite;
+    transition: all 0.3s ease;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Chatbot Button Hover Effect */
+.chatbot-btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.1);
+}
+
+/* Chatbot Label (Static Above Button) */
+.chatbot-label {
+    position: fixed;
+    bottom: 110px; /* Adjust height above button */
+    right: 30px;
+    background: #007bff;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 12px;
+    font-size: 14px;
+    white-space: nowrap;
+    animation: bounce 1.5s infinite;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
+    display: block; 
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Hide label when chatbot is clicked */
+.hide-label {
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* Bouncing Animation */
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+
+/* Tooltip
+.tooltip {
+    position: absolute;
+    bottom: 70px;
+    right: 10px;
+    background: #007bff;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    display: none;
+}
+ */
+ 
+.chatbot-btn:hover{
+    display: block;
+}
+
+/* Chat Panel */
+.chat-panel {
+    width: 300px;
+    height: 400px;
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    background: white;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: none;
+    flex-direction: column;
+}
+
+/* Chat Header */
+.chat-header {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Close Button */
+#close-btn {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* Chatbot Button Image */
+.chatbot-btn img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+/* Send Button */
+#send-btn {
+    margin-left: 5px;
+    padding: 8px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Chat Messages*/
+.chat-body {
+    flex-grow: 1;
+    padding: 10px;
+    overflow-y: auto;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* User message (Right-side, Green) */
+.user {
+    background-color: #25D366; 
+    color: white;
+    align-self: flex-end;
+    padding: 8px 12px;
+    border-radius: 10px 10px 0px 10px;
+    margin: 5px;
+    max-width: 75%;
+    word-wrap: break-word;
+}
+
+/* Bot message (Left-side, Light Grey) */
+.bot {
+    background-color: #E4E6EB;
+    color: black;
+    align-self: flex-start;
+    padding: 8px 12px;
+    border-radius: 10px 10px 10px 0px;
+    margin: 5px;
+    max-width: 75%;
+    word-wrap: break-word;
+}
+
+/* Image messages */
+.bot img, .user img {
+    max-width: 75%;
+    border-radius: 10px;
+    margin: 5px;
+}
