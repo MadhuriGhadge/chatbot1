@@ -450,39 +450,39 @@
         },
         {
             "question": "How many subjects are for FYBSc(CS)?",
-            "answer": "The total number of subjects offered in the course for FYBSc(CS) - 8 Theory and 4 Practicals "
+            "answer": "The total number of subjects offered in the course for FYBSc(CS) - 8 Theory and 4 Practicals.The detailed syllabus for these programs can be provided based on the department's curriculum. "
         },
         {
             "question": "How many subjects are for SYBSc(CS)?",
-            "answer": "The total number of subjects offered in the course for SYBSc(CS) - 8 Theory and 3 Practicals."
+            "answer": "The total number of subjects offered in the course for SYBSc(CS) - 8 Theory and 3 Practicals.The detailed syllabus for these programs can be provided based on the department's curriculum."
         },
         {
             "question": "How many subjects are for TYBSc(CS)?",
-            "answer": "The total number of subjects offered in the course for TYBSc(CS) - 8 Theory and 3 Practicals."
+            "answer": "The total number of subjects offered in the course for TYBSc(CS) - 8 Theory and 3 Practicals.The detailed syllabus for these programs can be provided based on the department's curriculum."
         },
         {
             "question": "How many subjects are for FYBSc(CA)?",
-            "answer": "The total number of subjects offered in the course for FYBSc(CA) - 4 Theory and 4 Practicals "
+            "answer": "The total number of subjects offered in the course for FYBSc(CA) - 4 Theory and 4 Practicals.The detailed syllabus for these programs can be provided based on the department's curriculum."
         },
         {
             "question": "How many subjects are for SYBSc(CA)?",
-            "answer": "The total number of subjects offered in the course for SYBSc(CA) - 5 Theory and 3 Practicals."
+            "answer": "The total number of subjects offered in the course for SYBSc(CA) - 5 Theory and 3 Practicals.The detailed syllabus for these programs can be provided based on the department's curriculum."
         },
         {
             "question": "How many subjects are for TYBSc(CA)?",
-            "answer": "The total number of subjects offered in the course for TYBSc(CA) - 5 Theory and 3 Practicals."
+            "answer": "The total number of subjects offered in the course for TYBSc(CA) - 5 Theory and 3 Practicals.The detailed syllabus for these programs can be provided based on the department's curriculum."
         },
         {
             "question": "How many subjects are for FYBSc(CDS)?",
-            "answer": "The total number of subjects offered in the course for FYBSc(CDS) - 4 Theory and 4 Practicals "
+            "answer": "The total number of subjects offered in the course for FYBSc(CDS) - 4 Theory and 4 Practicals.The detailed syllabus for these programs can be provided based on the department's curriculum."
         },
         {
             "question": "How many subjects are for SYBSc(CDS)?",
-            "answer": "The total number of subjects offered in the course for SYBSc(CDS) - 5 Theory and 3 Practicals."
+            "answer": "The total number of subjects offered in the course for SYBSc(CDS) - 5 Theory and 3 Practicals.The detailed syllabus for these programs can be provided based on the department's curriculum."
         },
         {
             "question": "How many subjects are for TYBSc(CDS)?",
-            "answer": "The total number of subjects offered in the course for TYBSc(CDS) - 5 Theory and 3 Practicals."
+            "answer": "The total number of subjects offered in the course for TYBSc(CDS) - 5 Theory and 3 Practicals.The detailed syllabus for these programs can be provided based on the department's curriculum."
         },
         {
             "question": "What are some career opportunities after completing a course from the Computer Science department?",
@@ -1108,15 +1108,22 @@
                 "question": "Who is the HOD / head of the department",
                 "answer":  "Dr. R.A. Patil,Education:M.C.S., Ph.D.,experience: 26 years,role:Head of Department, Computer Science, Responsibilities:Managing departmental activities, Curriculum planning and updates, Mentoring faculty and students,Encouraging research and development, Organizing workshops and industry collaborations"
               },
-            {
+              {
                 "question": "what are the sport facilities available at the department?",
-                "answer":  "in the KTHM College there are well maintained grounds for cricket and football,vollyball court,Archery court--indoor facilities for badminton,table tennis and other. Many of the students from the departments participate in various sport activities."
+                "answer":  "in the KTHM College there are well maintained grounds for cricket and football,vollyball court,Archery court--indoor facilities for badminton,table tennis and other. Many of the students from the departments participate in various sport activitiesGymnasium with modern equipment,Athletics track for running and field events,Coaching sessions for various sports."
               },
-            {
+              {
                 "question": "is the facility National cadet corps(NCC) available in college?",
-                "answer":  "yes.The college provide training programs for students to develop discipline and leadership"
+                "answer":  "yes.The college provide training programs for students to develop discipline and leadership,Participation in national-level camps and parades,Adventure activities such as trekking and cycling,Opportunities to appear for NCC 'B' and 'C' certificate exams."
               },
-            
+              {
+                "question": "is the facility National Service Scheme(NSS) available in college?",
+                "answer":  "yes.The college provide training programs for students Community service initiatives like blood donation camps,Awareness programs on environmental conservation and health,Participation in Swachh Bharat Abhiyan and rural development projects,Special camps organized for social work in rural areas."
+              },
+              {
+                "question":"the boat club facility",
+                "answer": "Boating and rowing activities for students,Training sessions to enhance water sports skills,Participation in state and national-level rowing competitions,Facilities available near the riverfront for practice"
+              }
            
           
     ]
