@@ -59,111 +59,111 @@
         {
             "question": "What are the PG courses offered by the CS department at KTHM College?",
             "answer": "The CS department offers M.Sc (CS) and M.Sc (CA) as PG courses."
-          },
-          {
+        },
+        {
             "question": "What is the eligibility criteria for admission to the M.Sc (CS) program?",
             "answer": "Candidates must have a bachelor's degree in Computer Science or a related field to be eligible for M.Sc (CS)."
-          },
-          {
+        },
+        {
             "question": "Can a student with a B.Sc (CS) degree apply for M.Sc (CS) at KTHM College?",
             "answer": "Yes, students with a B.Sc (CS) degree are eligible to apply for M.Sc (CS)."
-          },
-          {
+        },
+        {
             "question": "Is a BCA degree acceptable for admission to the M.Sc (CS) course?",
             "answer": "Yes, students with a BCA degree may also apply for M.Sc (CS), depending on the specific eligibility requirements."
-          },
-          {
+        },
+        {
             "question": "What is the eligibility criteria for admission to the M.Sc (CA) program?",
             "answer": "Candidates must have a bachelor's degree in Computer Applications (BCA) or a related field to be eligible for M.Sc (CA)."
-          },
-          {
+        },
+        {
             "question": "Can students with a B.Sc (CA) degree apply for M.Sc (CA)?",
             "answer": "Yes, students with a B.Sc (CA) degree are eligible to apply for M.Sc (CA)."
-          },
-          {
-            "question": "What is the difference between M.Sc (CS) and M.Sc (CA)?",
+        },
+        {
+             "question": "What is the difference between M.Sc (CS) and M.Sc (CA)?",
             "answer": "M.Sc (CS) focuses on advanced computer science concepts, while M.Sc (CA) emphasizes computer applications and software development."
-          },
-          {
+        },
+        {
             "question": "Do M.Sc (CS) and M.Sc (CA) require entrance exams for admission?",
             "answer": "Admission requirements, including entrance exams, depend on the college and university regulations. Check with KTHM College for specifics."
-          },
-          {
+        },
+        {
             "question": "What subjects are typically required for eligibility to M.Sc (CS) or M.Sc (CA)?",
             "answer": "A bachelor's degree in Computer Science, Computer Applications, or a related field is required for both courses."
-          },
-          {
+        },
+        {
             "question": "Are there any reservations or quotas for admission to M.Sc (CS) or M.Sc (CA) at KTHM College?",
             "answer": "Details on reservations or quotas depend on college policies and government regulations. Check with KTHM College for specific details."
-          },
-          {
+        },
+        {
             "question": "Can non-CS graduates apply for M.Sc (CS) or M.Sc (CA) programs?",
             "answer": "Non-CS graduates may apply if they meet the required prerequisites, such as foundational courses in computer science."
-          },
-          {
+        },
+        {
             "question": "What are the eligibility criteria for admission to the B.Sc (CS) course at KTHM College?",
             "answer": "Candidates need to have completed 12+2 HSC with Mathematics as a subject."
-          },
-          {
+        },
+        {
             "question": "Can I apply for the B.Sc (CS) course without having Mathematics in 12+2 HSC?",
             "answer": "No, Mathematics is mandatory for admission to the B.Sc (CS) course."
-          },
-          {
+        },
+        {
             "question": "What are the eligibility criteria for admission to the B.Sc (CA) course?",
             "answer": "Candidates need to have completed 12+2 HSC, and Mathematics is optional for this course."
-          },
-          {
+        },
+        {
             "question": "Is Mathematics required for admission to the B.Sc (CA) course?",
             "answer": "No, Mathematics is not mandatory for admission to the B.Sc (CA) course."
-          },
-          {
+        },
+        {
             "question": "What is the eligibility for the B.Sc (CDS) course?",
             "answer": "Candidates need to have completed 12+2 HSC to apply for the B.Sc (CDS) course."
-          },
-          {
+        },
+        {
             "question": "Are there any specific subjects required for B.Sc (CDS) admission?",
             "answer": "No specific subjects like Mathematics are required for B.Sc (CDS) admission."
-          },
-          {
+        },
+        {
             "question": "Which courses in the CS department require Mathematics at the 12+2 HSC level?",
             "answer": "The B.Sc (CS) course requires Mathematics."
-          },
-          {
+        },
+        {
             "question": "Can students without Mathematics in 12+2 HSC apply for any CS department courses?",
             "answer": "Yes, students without Mathematics can apply for the B.Sc (CA) and B.Sc (CDS) courses."
-          },
-          {
+        },
+        {
             "question": "What are the differences in eligibility between B.Sc (CS), B.Sc (CA), and B.Sc (CDS)?",
             "answer": "B.Sc (CS) requires Mathematics at 12+2 HSC, B.Sc (CA) does not require Mathematics, and B.Sc (CDS) has no specific subject requirements."
-          },
-          {
+        },
+        {
             "question": "What courses are offered by the CS department at KTHM College?",
             "answer": "The CS department offers B.Sc (CS), B.Sc (CA), and B.Sc (CDS) courses."
-          },
-          {
+        },
+        {
             "question": "What is the total fee structure for the entire B.Sc (CS) course (three years) at KTHM College?",
             "answer": "The total fees for the entire B.Sc (CS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
-          },
-          {
+        },
+        {
             "question": "What is the fees structure for FYB.Sc (CS) at KTHM College?",
             "answer": "The fees for FYB.Sc (CS) is ₹35,305/- or up to ₹36,000/-."
-          },
-          {
+        },
+        {
             "question": "What is the fees structure for SYB.Sc (CS) at KTHM College?",
             "answer": "The fees for SYB.Sc (CS) is ₹35,305/- or up to ₹36,000/-."
-          },
-          {
+        },
+        {
             "question": "What is the fees structure for TYB.Sc (CS) at KTHM College?",
             "answer": "The fees for TYB.Sc (CS) is ₹35,305/- or up to ₹36,000/-."
-          },
-          {
+        },
+        {
             "question": "What is the fees structure for M.Sc (CS) Part-I at KTHM College?",
             "answer": "The fees for M.Sc (CS) Part-I is ₹53,000/- or up to ₹54,000/-."
-          },
-          {
+        },
+        {
             "question": "What is the fees structure for M.Sc (CS) Part-II at KTHM College?",
             "answer": "The fees for M.Sc (CS) Part-II is ₹53,000/- or up to ₹54,000/-."
-          },
+        },
           {
             "question": "Is the fees structure for all years of B.Sc (CS) the same?",
             "answer": "Yes, the fees structure for FYB.Sc, SYB.Sc, and TYB.Sc (CS) is the same, ranging from ₹35,305/- to ₹36,000/-."
