@@ -34,27 +34,31 @@
         },
         {
             "question": "good morning",
-            "answer": "Good morning! How can I assist you today?"
+            "answer": "Good Morning! How can I assist you today?"
         },
         {
             "question": "good night",
-            "answer": "Good night! Have a restful sleep. 🌙"
+            "answer": "Good Night! Have a restful sleep. 🌙"
         },
         {
             "question": "thank you",
-            "answer": "You're welcome! 😊 Let me know if you need anything else."
+            "answer": "You're Welcome! 😊 Let me know if you need anything else."
         },
         {
             "question": "what is the establishment year of the Computer Science department?",
-            "answer": "The Computer Science and application department in K. T. H. M. College was established in the year 1986."
+            "answer": "The Computer Science and Application Department in was established in the year 1986."
+        },
+        {
+            "question": "does department conduct campus drives for placements?",
+            "answer": "Yes,The Department has high placement ratio.Many campus drives are conducted in which various MNC's takes part such as TCS,Infosys,Accenture,Capegemini,etc."
         },
         {
             "question": "what is the start year Computer Science department?",
-            "answer": "The Computer Science and application department in K. T. H. M. College was established in the year 1986."
+            "answer": "The Computer Science and Application Department was established in the year 1986."
         },
         {
             "question": "which are the courses offered by the Computer Science department?",
-            "answer": "The department offers B.Sc.(Computer Science), M.Sc.(Computer Science), B.Sc(Computer Application),M.Sc(Computer Application). and B.Sc.(Cyber and Digital Science)"
+            "answer": "The department offers B.Sc.(Computer Science), M.Sc.(Computer Science), BCA(Science),M.Sc(Computer Application). and B.Sc.(Cyber and Digital Science)"
         },
         {
             "question": "What are the PG courses offered by the CS department at KTHM College?",
@@ -62,7 +66,7 @@
         },
         {
             "question": "What is the eligibility criteria for admission to the M.Sc (CS) program?",
-            "answer": "Candidates must have a bachelor's degree in Computer Science or a related field to be eligible for M.Sc (CS)."
+            "answer": "Candidates must have a Bachelor's Degree in Computer Science or a related field to be eligible for M.Sc (CS)."
         },
         {
             "question": "Can a student with a B.Sc (CS) degree apply for M.Sc (CS) at KTHM College?",
