@@ -45,8 +45,12 @@
             "answer": "You're Welcome! 😊 Let me know if you need anything else."
         },
         {
+            "question": "okh",
+            "answer": "Yes! Let me know if you need anything else."
+        },
+        {
             "question": "what is the establishment year of the Computer Science department?",
-            "answer": "The Computer Science and Application Department in was established in the year 1986."
+            "answer": "The Computer Science and Application Department was established in the year 1986."
         },
         {
             "question": "does department conduct campus drives for placements?",
@@ -78,11 +82,11 @@
         },
         {
             "question": "What is the eligibility criteria for admission to the M.Sc (CA) program?",
-            "answer": "Candidates must have a bachelor's degree in Computer Applications (BCA) or a related field to be eligible for M.Sc (CA)."
+            "answer": "Candidates must have a Bachelor's Degree in Computer Applications (BCA) or a related field to be eligible for M.Sc (CA)."
         },
         {
-            "question": "Can students with a B.Sc (CA) degree apply for M.Sc (CA)?",
-            "answer": "Yes, students with a B.Sc (CA) degree are eligible to apply for M.Sc (CA)."
+            "question": "Can students with a BCA degree apply for M.Sc (CA)?",
+            "answer": "Yes, students with a BCA degree are eligible to apply for M.Sc (CA)."
         },
         {
              "question": "What is the difference between M.Sc (CS) and M.Sc (CA)?",
@@ -97,7 +101,7 @@
             "answer": "A bachelor's degree in Computer Science, Computer Applications, or a related field is required for both courses."
         },
         {
-            "question": "Are there any reservations or quotas for admission to M.Sc (CS) or M.Sc (CA) at KTHM College?",
+            "question": "Are there any reservations or quotas for admission to M.Sc (CS) or M.Sc (CA)?",
             "answer": "Details on reservations or quotas depend on college policies and government regulations. Check with KTHM College for specific details."
         },
         {
@@ -105,7 +109,7 @@
             "answer": "Non-CS graduates may apply if they meet the required prerequisites, such as foundational courses in computer science."
         },
         {
-            "question": "What are the eligibility criteria for admission to the B.Sc (CS) course at KTHM College?",
+            "question": "What are the eligibility criteria for admission to the B.Sc (CS) course?",
             "answer": "Candidates need to have completed 12+2 HSC with Mathematics as a subject."
         },
         {
